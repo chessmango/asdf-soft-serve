@@ -3,7 +3,7 @@
 set -euo pipefail
 
 GH_REPO="https://github.com/charmbracelet/soft-serve"
-TOOL_NAME="soft"
+TOOL_NAME="soft-serve"
 TOOL_TEST="soft --version"
 
 fail() {
