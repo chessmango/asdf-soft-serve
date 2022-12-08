@@ -40,7 +40,7 @@ asdf install soft-serve latest
 asdf global soft-serve latest
 
 # Now soft-serve commands are available
-soft-serve --version
+soft --version
 ```
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to

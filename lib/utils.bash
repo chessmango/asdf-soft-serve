@@ -3,8 +3,8 @@
 set -euo pipefail
 
 GH_REPO="https://github.com/charmbracelet/soft-serve"
-TOOL_NAME="soft-serve"
-TOOL_TEST="soft-serve --version"
+TOOL_NAME="soft"
+TOOL_TEST="soft --version"
 
 fail() {
   echo -e "asdf-$TOOL_NAME: $*"
